@@ -1,8 +1,7 @@
 .header__list-element {
-  list-style: none;
+  margin-right: 18px;
 }
 
-.header__list-element:first-of-type {
-  text-decoration: underline;
-  margin-right: 18px;
+.header__list-element:last-of-type {
+  margin-right: 0;
 }
