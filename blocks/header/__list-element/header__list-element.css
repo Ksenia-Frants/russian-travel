@@ -1,6 +1,7 @@
 .header__list-element {
   list-style: none;
 }
+
 .header__list-element:first-of-type {
   text-decoration: underline;
   margin-right: 18px;

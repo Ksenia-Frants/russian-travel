@@ -1,0 +1,11 @@
+@media screen and (max-width: 494px) {
+  .footer__list-element {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 494px) {
+  .footer__list-element:last-of-type {
+    margin-bottom: 0;
+  }
+}
